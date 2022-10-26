@@ -1,5 +1,6 @@
 # Portfolio_website
-Data Science Project Portfolio
+Data science portfolio by Jonathan Griffiths 
+
 
 ## Project 1: Wastewater pumping station electricity consumption forecasting
 **Project type:** Professional, data science
@@ -42,6 +43,7 @@ Data Science Project Portfolio
 
 **Tools:** AWS
 
+
 ## Project 4: School electricity consumption forecasting 
 **Project type:** Professional, data science
 
@@ -54,6 +56,7 @@ Data Science Project Portfolio
 **Languages:** Python
 
 **Tools:** 
+
 
 ## Project 5: Electricity consumption forecasting in R 
 **Project type:** Study, data science
@@ -68,6 +71,7 @@ Data Science Project Portfolio
 
 **Tools:** AWS, PostgreSQL, Docker, AWS Lambda
 
+
 ## Project 6: TimescaleDB Python API 
 **Project type:** Professional, data engineering
 
@@ -80,6 +84,7 @@ Data Science Project Portfolio
 **Languages:** Python
 
 **Tools:** AWS,
+
 
 ## Project 7: AWS AppSync GraphQL Python API 
 **Project type:** Professional, data engineering
@@ -94,6 +99,7 @@ Data Science Project Portfolio
 
 **Tools:** AWS,
 
+
 ## Project 8: AWS flexible power application AWS architecture design
 **Project type:** Professional, data engineering
 
@@ -106,6 +112,7 @@ Data Science Project Portfolio
 **Languages:** -
 
 **Tools:** AWS
+
 
 ## Project 9: AWS CI/CD Pipeline
 **Project type:** Professional, data engineering
