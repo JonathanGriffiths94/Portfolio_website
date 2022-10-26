@@ -6,17 +6,12 @@ Data science portfolio by Jonathan Griffiths
 
   ### Overview
 
-    **Project type:** Professional, data science
-
-    **Institute:** Maiple
-
-    **Collaborators:** CIREGS, FLEXISApp
-
-    **Dates:** 
-
-    **Languages:** Python
-
-    **Tools:** AWS, Sci-kit learn, GluonTS, MxNet, MLOPS
+  **Project type:** Professional, data science
+  **Institute:** Maiple
+  **Collaborators:** CIREGS, FLEXISApp
+  **Dates:** 
+  **Languages:** Python
+  **Tools:** AWS, Sci-kit learn, GluonTS, MxNet, MLOPS
 
   ### Description
 
@@ -25,17 +20,12 @@ Data science portfolio by Jonathan Griffiths
 
   ### Overview
   
-    **Project type:** University, data science
-
-    **Institute:** Data ScienceTech Institute
-
-    **Collaborators:** 
-
-    **Dates:** 
-
-    **Languages:** Python
-
-    **Tools:** AWS, OpenCV, Pytorch, DarkNet, YOLO, GCP OCR, AWS Rekognition
+  **Project type:** University, data science
+  **Institute:** Data ScienceTech Institute
+  **Collaborators:** 
+  **Dates:** 
+  **Languages:** Python
+  **Tools:** AWS, OpenCV, Pytorch, DarkNet, YOLO, GCP OCR, AWS Rekognition
     
   ### Description
 
@@ -43,17 +33,12 @@ Data science portfolio by Jonathan Griffiths
 ## Project 3 - Hospital electricity and heat consumption forecasting 
 
   ### Overview
-    **Project type:** Professional, data science
-
-    **Institute:** Maiple
-
-    **Collaborators:** UK utility company
-
-    **Dates:** 
-
-    **Languages:** Python
-
-    **Tools:** AWS, AWS EC2, AWS Sagemaker, AWS Lambda, Docker, MLOPS
+  **Project type:** Professional, data science
+  **Institute:** Maiple
+  **Collaborators:** UK utility company
+  **Dates:** 
+  **Languages:** Python
+  **Tools:** AWS, AWS EC2, AWS Sagemaker, AWS Lambda, Docker, MLOPS
     
   ### Description
 
@@ -62,17 +47,12 @@ Data science portfolio by Jonathan Griffiths
 
   ### Overview
 
-    **Project type:** Professional, data science
-
-    **Institute:** Maiple
-
-    **Collaborators:** FLEXISApp, CIREGS
-
-    **Dates:** 
-
-    **Languages:** Python
-
-    **Tools:** AWS 
+  **Project type:** Professional, data science
+  **Institute:** Maiple
+  **Collaborators:** FLEXISApp, CIREGS
+  **Dates:** 
+  **Languages:** Python
+  **Tools:** AWS 
     
   ### Description
 
@@ -81,17 +61,12 @@ Data science portfolio by Jonathan Griffiths
 
 ### Overview
 
-    **Project type:** Study, data science
-
-    **Institute:** Data ScienceTech Institute
-
-    **Collaborators:** FLEXISApp, CIREGS
-
-    **Dates:** 
-
-    **Languages:** Python
-
-    **Tools:** AWS, PostgreSQL, Docker, AWS Lambda
+  **Project type:** Study, data science
+  **Institute:** Data ScienceTech Institute
+  **Collaborators:** FLEXISApp, CIREGS
+  **Dates:** 
+  **Languages:** Python
+  **Tools:** AWS, PostgreSQL, Docker, AWS Lambda
     
 ### Description
 
@@ -100,17 +75,12 @@ Data science portfolio by Jonathan Griffiths
 
   ### Overview
 
-    **Project type:** Professional, data engineering
-
-    **Institute:** Maiple
-
-    **Collaborators:** FLEXISApp, CIREGS
-
-    **Dates:** 
-
-    **Languages:** Python
-
-    **Tools:** AWS, SQL, AWS Lambda
+  **Project type:** Professional, data engineering
+  **Institute:** Maiple
+  **Collaborators:** FLEXISApp, CIREGS
+  **Dates:** 
+  **Languages:** Python
+  **Tools:** AWS, SQL, AWS Lambda
     
   ### Description
 
@@ -119,17 +89,12 @@ Data science portfolio by Jonathan Griffiths
 
 ### Overview
 
-    **Project type:** Professional, data engineering
-
-    **Institute:** Maiple
-
-    **Collaborators:** FLEXISApp, CIREGS
-
-    **Dates:** 
-
-    **Languages:** Python
-
-    **Tools:** AWS, DynamoDB, NoSQL
+  **Project type:** Professional, data engineering
+  **Institute:** Maiple
+  **Collaborators:** FLEXISApp, CIREGS
+  **Dates:** 
+  **Languages:** Python
+  **Tools:** AWS, DynamoDB, NoSQL
     
 ### Description
 
@@ -138,17 +103,12 @@ Data science portfolio by Jonathan Griffiths
 
   ### Overview
 
-    **Project type:** Professional, data engineering
-
-    **Institute:** Maiple
-
-    **Collaborators:** FLEXISApp, CIREGS
-
-    **Dates:** 
-
-    **Languages:** -
-
-    **Tools:** AWS
+  **Project type:** Professional, data engineering
+  **Institute:** Maiple
+  **Collaborators:** FLEXISApp, CIREGS
+  **Dates:** 
+  **Languages:** -
+  **Tools:** AWS
     
   ### Description
 
@@ -157,17 +117,12 @@ Data science portfolio by Jonathan Griffiths
 
   ### Overview
 
-    **Project type:** Professional, data engineering
-
-    **Institute:** Maiple
-
-    **Collaborators:** FLEXISApp, CIREGS
-
-    **Dates:** 
-
-    **Languages:** Typescript
-
-    **Tools:** AWS
+  **Project type:** Professional, data engineering
+  **Institute:** Maiple
+  **Collaborators:** FLEXISApp, CIREGS
+  **Dates:** 
+  **Languages:** Typescript
+  **Tools:** AWS
   
   ### Description
 
