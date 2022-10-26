@@ -55,7 +55,7 @@ Data Science Project Portfolio
 
 **Tools:** 
 
-## Project 6: Electricity consumption forecasting in R 
+## Project 5: Electricity consumption forecasting in R 
 **Project type:** Study
 
 **Institute:** Data ScienceTech Institute
@@ -68,7 +68,7 @@ Data Science Project Portfolio
 
 **Tools:** AWS, PostgreSQL, Docker, AWS Lambda
 
-## Project 7: TimescaleDB Python API 
+## Project 6: TimescaleDB Python API 
 **Project type:** Professional
 
 **Institute:** Maiple
@@ -81,7 +81,7 @@ Data Science Project Portfolio
 
 **Tools:** AWS,
 
-## Project 8: AWS AppSync GraphQL Python API 
+## Project 7: AWS AppSync GraphQL Python API 
 **Project type:** Professional
 
 **Institute:** Maiple
@@ -94,7 +94,7 @@ Data Science Project Portfolio
 
 **Tools:** AWS,
 
-## Project 9: AWS flexible power application AWS architecture design
+## Project 8: AWS flexible power application AWS architecture design
 **Project type:** Professional
 
 **Institute:** Maiple
@@ -107,7 +107,7 @@ Data Science Project Portfolio
 
 **Tools:** AWS
 
-## Project 10: AWS CI/CD Pipeline
+## Project 9: AWS CI/CD Pipeline
 **Project type:** Professional
 
 **Institute:** Maiple
