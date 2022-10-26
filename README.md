@@ -59,7 +59,7 @@ Data science portfolio by Jonathan Griffiths
 
 **Languages:** Python
 
-**Tools:** 
+**Tools:** AWS 
 
 
 ## Project 5 - Electricity consumption forecasting in R 
@@ -89,7 +89,7 @@ Data science portfolio by Jonathan Griffiths
 
 **Languages:** Python
 
-**Tools:** AWS, SQL
+**Tools:** AWS, SQL, AWS Lambda
 
 
 ## Project 7 - AWS AppSync GraphQL Python API 
