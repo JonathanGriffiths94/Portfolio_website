@@ -2,7 +2,7 @@
 Data Science Project Portfolio
 
 ## Project 1: Wastewater pumping station electricity consumption forecasting
-**Project type:** Professional
+**Project type:** Professional, data science
 
 **Institute:** Maiple
 
@@ -16,7 +16,7 @@ Data Science Project Portfolio
 
 
 ## Project 2: Optical Charater Recognition (OCR) for receipt digitisation 
-**Project type:** University
+**Project type:** University, data science
 
 **Institute:** Data ScienceTech Institute
 
@@ -30,7 +30,7 @@ Data Science Project Portfolio
 
 
 ## Project 3: Hospital electricity and heat consumption forecasting 
-**Project type:** Professional
+**Project type:** Professional, data science
 
 **Institute:** Maiple
 
@@ -43,7 +43,7 @@ Data Science Project Portfolio
 **Tools:** AWS
 
 ## Project 4: School electricity consumption forecasting 
-**Project type:** Professional
+**Project type:** Professional, data science
 
 **Institute:** Maiple
 
@@ -56,7 +56,7 @@ Data Science Project Portfolio
 **Tools:** 
 
 ## Project 5: Electricity consumption forecasting in R 
-**Project type:** Study
+**Project type:** Study, data science
 
 **Institute:** Data ScienceTech Institute
 
@@ -69,7 +69,7 @@ Data Science Project Portfolio
 **Tools:** AWS, PostgreSQL, Docker, AWS Lambda
 
 ## Project 6: TimescaleDB Python API 
-**Project type:** Professional
+**Project type:** Professional, data engineering
 
 **Institute:** Maiple
 
@@ -82,7 +82,7 @@ Data Science Project Portfolio
 **Tools:** AWS,
 
 ## Project 7: AWS AppSync GraphQL Python API 
-**Project type:** Professional
+**Project type:** Professional, data engineering
 
 **Institute:** Maiple
 
@@ -95,7 +95,7 @@ Data Science Project Portfolio
 **Tools:** AWS,
 
 ## Project 8: AWS flexible power application AWS architecture design
-**Project type:** Professional
+**Project type:** Professional, data engineering
 
 **Institute:** Maiple
 
@@ -108,7 +108,7 @@ Data Science Project Portfolio
 **Tools:** AWS
 
 ## Project 9: AWS CI/CD Pipeline
-**Project type:** Professional
+**Project type:** Professional, data engineering
 
 **Institute:** Maiple
 
