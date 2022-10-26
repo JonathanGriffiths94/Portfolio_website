@@ -16,6 +16,8 @@ Data science portfolio by Jonathan Griffiths
 
 **Tools:** AWS, Sci-kit learn, GluonTS, MxNet, MLOPS
 
+### Description
+
 
 ## Project 2 - Optical Charater Recognition (OCR) for receipt digitisation 
 
