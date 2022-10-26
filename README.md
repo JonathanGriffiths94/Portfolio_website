@@ -1,8 +1,8 @@
 # Portfolio_website
 Data Science Project Portfolio
 
-Project 1: Wastewater pumping station electricity consumption forecasting
-**Project type:** Study
+## Project 1: Wastewater pumping station electricity consumption forecasting
+**Project type:** University
 
 **Institute:** Data ScienceTech Institute
 
@@ -15,8 +15,8 @@ Project 1: Wastewater pumping station electricity consumption forecasting
 **Tools:** 
 
 
-Project 2: Optical Charater Recognition (OCR) for receipt digitisation 
-**Project type:** Study
+## Project 2: Optical Charater Recognition (OCR) for receipt digitisation 
+**Project type:** University
 
 **Institute:** Data ScienceTech Institute
 
@@ -29,7 +29,7 @@ Project 2: Optical Charater Recognition (OCR) for receipt digitisation
 **Tools:** AWS, OpenCV, Pytorch, DarkNet, YOLO, GCP OCR, AWS Rekognition
 
 
-Project 3: Hospital electricity and heat consumption forecasting 
+## Project 3: Hospital electricity and heat consumption forecasting 
 **Project type:** Study
 
 **Institute:** Data ScienceTech Institute
@@ -42,7 +42,7 @@ Project 3: Hospital electricity and heat consumption forecasting
 
 **Tools:** AWS
 
-Project 4: School electricity consumption forecasting 
+## Project 4: School electricity consumption forecasting 
 **Project type:** Study
 
 **Institute:** Data ScienceTech Institute
@@ -55,7 +55,7 @@ Project 4: School electricity consumption forecasting
 
 **Tools:** 
 
-Project 6: Electricity consumption forecasting in R 
+## Project 6: Electricity consumption forecasting in R 
 **Project type:** Study
 
 **Institute:** Data ScienceTech Institute
@@ -68,10 +68,10 @@ Project 6: Electricity consumption forecasting in R
 
 **Tools:** AWS, PostgreSQL, Docker, AWS Lambda
 
-Project 7: TimescaleDB Python API 
+## Project 7: TimescaleDB Python API 
 Data engineering
 
-Project 8: AWS flexible power application AWS architecture design
+## Project 8: AWS flexible power application AWS architecture design
 **Project type:** Professional
 
 **Institute:** Maiple
