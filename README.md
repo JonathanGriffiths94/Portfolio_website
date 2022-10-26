@@ -4,140 +4,171 @@ Data science portfolio by Jonathan Griffiths
 
 ## Project 1 - Wastewater pumping station electricity consumption forecasting
 
-### Overview
+  ### Overview
 
-**Project type:** Professional, data science
+    **Project type:** Professional, data science
 
-**Institute:** Maiple
+    **Institute:** Maiple
 
-**Collaborators:** CIREGS, FLEXISApp
+    **Collaborators:** CIREGS, FLEXISApp
 
-**Dates:** 
+    **Dates:** 
 
-**Languages:** Python
+    **Languages:** Python
 
-**Tools:** AWS, Sci-kit learn, GluonTS, MxNet, MLOPS
+    **Tools:** AWS, Sci-kit learn, GluonTS, MxNet, MLOPS
 
-### Description
+  ### Description
 
 
 ## Project 2 - Optical Charater Recognition (OCR) for receipt digitisation 
 
-**Project type:** University, data science
+  ### Overview
+  
+    **Project type:** University, data science
 
-**Institute:** Data ScienceTech Institute
+    **Institute:** Data ScienceTech Institute
 
-**Collaborators:** 
+    **Collaborators:** 
 
-**Dates:** 
+    **Dates:** 
 
-**Languages:** Python
+    **Languages:** Python
 
-**Tools:** AWS, OpenCV, Pytorch, DarkNet, YOLO, GCP OCR, AWS Rekognition
+    **Tools:** AWS, OpenCV, Pytorch, DarkNet, YOLO, GCP OCR, AWS Rekognition
+    
+  ### Description
 
 
 ## Project 3 - Hospital electricity and heat consumption forecasting 
 
-**Project type:** Professional, data science
+  ### Overview
+    **Project type:** Professional, data science
 
-**Institute:** Maiple
+    **Institute:** Maiple
 
-**Collaborators:** UK utility company
+    **Collaborators:** UK utility company
 
-**Dates:** 
+    **Dates:** 
 
-**Languages:** Python
+    **Languages:** Python
 
-**Tools:** AWS, AWS EC2, AWS Sagemaker, AWS Lambda, Docker, MLOPS
+    **Tools:** AWS, AWS EC2, AWS Sagemaker, AWS Lambda, Docker, MLOPS
+    
+  ### Description
 
 
 ## Project 4 - School electricity consumption forecasting 
 
-**Project type:** Professional, data science
+  ### Overview
 
-**Institute:** Maiple
+    **Project type:** Professional, data science
 
-**Collaborators:** FLEXISApp, CIREGS
+    **Institute:** Maiple
 
-**Dates:** 
+    **Collaborators:** FLEXISApp, CIREGS
 
-**Languages:** Python
+    **Dates:** 
 
-**Tools:** AWS 
+    **Languages:** Python
+
+    **Tools:** AWS 
+    
+  ### Description
 
 
 ## Project 5 - Electricity consumption forecasting in R 
 
-**Project type:** Study, data science
+### Overview
 
-**Institute:** Data ScienceTech Institute
+    **Project type:** Study, data science
 
-**Collaborators:** FLEXISApp, CIREGS
+    **Institute:** Data ScienceTech Institute
 
-**Dates:** 
+    **Collaborators:** FLEXISApp, CIREGS
 
-**Languages:** Python
+    **Dates:** 
 
-**Tools:** AWS, PostgreSQL, Docker, AWS Lambda
+    **Languages:** Python
+
+    **Tools:** AWS, PostgreSQL, Docker, AWS Lambda
+    
+### Description
 
 
 ## Project 6 - TimescaleDB Python API 
 
-**Project type:** Professional, data engineering
+  ### Overview
 
-**Institute:** Maiple
+    **Project type:** Professional, data engineering
 
-**Collaborators:** FLEXISApp, CIREGS
+    **Institute:** Maiple
 
-**Dates:** 
+    **Collaborators:** FLEXISApp, CIREGS
 
-**Languages:** Python
+    **Dates:** 
 
-**Tools:** AWS, SQL, AWS Lambda
+    **Languages:** Python
+
+    **Tools:** AWS, SQL, AWS Lambda
+    
+  ### Description
 
 
 ## Project 7 - AWS AppSync GraphQL Python API 
 
-**Project type:** Professional, data engineering
+### Overview
 
-**Institute:** Maiple
+    **Project type:** Professional, data engineering
 
-**Collaborators:** FLEXISApp, CIREGS
+    **Institute:** Maiple
 
-**Dates:** 
+    **Collaborators:** FLEXISApp, CIREGS
 
-**Languages:** Python
+    **Dates:** 
 
-**Tools:** AWS, DynamoDB, NoSQL
+    **Languages:** Python
+
+    **Tools:** AWS, DynamoDB, NoSQL
+    
+### Description
 
 
 ## Project 8 - AWS flexible power application AWS architecture design
 
-**Project type:** Professional, data engineering
+  ### Overview
 
-**Institute:** Maiple
+    **Project type:** Professional, data engineering
 
-**Collaborators:** FLEXISApp, CIREGS
+    **Institute:** Maiple
 
-**Dates:** 
+    **Collaborators:** FLEXISApp, CIREGS
 
-**Languages:** -
+    **Dates:** 
 
-**Tools:** AWS
+    **Languages:** -
+
+    **Tools:** AWS
+    
+  ### Description
 
 
 ## Project 9 - AWS CI/CD Pipeline
 
-**Project type:** Professional, data engineering
+  ### Overview
 
-**Institute:** Maiple
+    **Project type:** Professional, data engineering
 
-**Collaborators:** FLEXISApp, CIREGS
+    **Institute:** Maiple
 
-**Dates:** 
+    **Collaborators:** FLEXISApp, CIREGS
 
-**Languages:** Typescript
+    **Dates:** 
 
-**Tools:** AWS
+    **Languages:** Typescript
+
+    **Tools:** AWS
+  
+  ### Description
 
 
