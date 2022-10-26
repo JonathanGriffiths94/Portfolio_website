@@ -69,7 +69,19 @@ Data Science Project Portfolio
 **Tools:** AWS, PostgreSQL, Docker, AWS Lambda
 
 ## Project 7: TimescaleDB Python API 
-Data engineering
+**Project type:** Professional
+
+**Institute:** Maiple
+
+**Collaborators:** 
+
+**Dates:** 
+
+**Language:** Python
+
+**Tools:** AWS,
+
+
 
 ## Project 8: AWS flexible power application AWS architecture design
 **Project type:** Professional
