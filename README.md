@@ -35,13 +35,13 @@ Data science portfolio by Jonathan Griffiths
 
 **Institute:** Maiple
 
-**Collaborators:** 
+**Collaborators:** UK utility company
 
 **Dates:** 
 
 **Languages:** Python
 
-**Tools:** AWS
+**Tools:** AWS, AWS EC2, AWS Sagemaker, AWS Lambda, Docker, MLOPS
 
 
 ## Project 4 - School electricity consumption forecasting 
@@ -49,7 +49,7 @@ Data science portfolio by Jonathan Griffiths
 
 **Institute:** Maiple
 
-**Collaborators:** 
+**Collaborators:** FLEXISApp, CIREGS
 
 **Dates:** 
 
@@ -63,7 +63,7 @@ Data science portfolio by Jonathan Griffiths
 
 **Institute:** Data ScienceTech Institute
 
-**Collaborators:** 
+**Collaborators:** FLEXISApp, CIREGS
 
 **Dates:** 
 
@@ -77,7 +77,7 @@ Data science portfolio by Jonathan Griffiths
 
 **Institute:** Maiple
 
-**Collaborators:** 
+**Collaborators:** FLEXISApp, CIREGS
 
 **Dates:** 
 
@@ -91,7 +91,7 @@ Data science portfolio by Jonathan Griffiths
 
 **Institute:** Maiple
 
-**Collaborators:** 
+**Collaborators:** FLEXISApp, CIREGS
 
 **Dates:** 
 
@@ -105,7 +105,7 @@ Data science portfolio by Jonathan Griffiths
 
 **Institute:** Maiple
 
-**Collaborators:** 
+**Collaborators:** FLEXISApp, CIREGS
 
 **Dates:** 
 
@@ -119,7 +119,7 @@ Data science portfolio by Jonathan Griffiths
 
 **Institute:** Maiple
 
-**Collaborators:** 
+**Collaborators:** FLEXISApp, CIREGS
 
 **Dates:** 
 
