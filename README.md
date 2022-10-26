@@ -10,7 +10,7 @@ Data Science Project Portfolio
 
 **Dates:** 
 
-**Language:** Python
+**Languages:** Python
 
 **Tools:** AWS, Sci-kit learn, GluonTS, MxNet, MLOPS
 
@@ -24,7 +24,7 @@ Data Science Project Portfolio
 
 **Dates:** 
 
-**Language:** Python
+**Languages:** Python
 
 **Tools:** AWS, OpenCV, Pytorch, DarkNet, YOLO, GCP OCR, AWS Rekognition
 
@@ -38,7 +38,7 @@ Data Science Project Portfolio
 
 **Dates:** 
 
-**Language:** Python
+**Languages:** Python
 
 **Tools:** AWS
 
@@ -77,13 +77,11 @@ Data Science Project Portfolio
 
 **Dates:** 
 
-**Language:** Python
+**Languages:** Python
 
 **Tools:** AWS,
 
-
-
-## Project 8: AWS flexible power application AWS architecture design
+## Project 8: AWS AppSync GraphQL Python API 
 **Project type:** Professional
 
 **Institute:** Maiple
@@ -92,11 +90,24 @@ Data Science Project Portfolio
 
 **Dates:** 
 
-**Language:** -
+**Languages:** Python
+
+**Tools:** AWS,
+
+## Project 9: AWS flexible power application AWS architecture design
+**Project type:** Professional
+
+**Institute:** Maiple
+
+**Collaborators:** 
+
+**Dates:** 
+
+**Languages:** -
 
 **Tools:** AWS
 
-## Project 9: AWS CI/CD Pipeline
+## Project 10: AWS CI/CD Pipeline
 **Project type:** Professional
 
 **Institute:** Maiple
@@ -105,7 +116,7 @@ Data Science Project Portfolio
 
 **Dates:** 
 
-**Language:** -
+**Languages:** -
 
 **Tools:** AWS
 
