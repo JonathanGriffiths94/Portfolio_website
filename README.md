@@ -4,6 +4,8 @@ Data science portfolio by Jonathan Griffiths
 
 ## Project 1 - Wastewater pumping station electricity consumption forecasting
 
+### Overview
+
 **Project type:** Professional, data science
 
 **Institute:** Maiple
