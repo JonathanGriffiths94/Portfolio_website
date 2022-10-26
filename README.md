@@ -2,17 +2,17 @@
 Data Science Project Portfolio
 
 ## Project 1: Wastewater pumping station electricity consumption forecasting
-**Project type:** University
+**Project type:** Professional
 
-**Institute:** Data ScienceTech Institute
+**Institute:** Maiple
 
-**Collaborators:** 
+**Collaborators:** CIREGS, FLEXISApp
 
 **Dates:** 
 
 **Language:** Python
 
-**Tools:** 
+**Tools:** AWS, Sci-kit learn, GluonTS, MxNet, MLOPS
 
 
 ## Project 2: Optical Charater Recognition (OCR) for receipt digitisation 
@@ -30,9 +30,9 @@ Data Science Project Portfolio
 
 
 ## Project 3: Hospital electricity and heat consumption forecasting 
-**Project type:** Study
+**Project type:** Professional
 
-**Institute:** Data ScienceTech Institute
+**Institute:** Maiple
 
 **Collaborators:** 
 
@@ -43,15 +43,15 @@ Data Science Project Portfolio
 **Tools:** AWS
 
 ## Project 4: School electricity consumption forecasting 
-**Project type:** Study
+**Project type:** Professional
 
-**Institute:** Data ScienceTech Institute
+**Institute:** Maiple
 
 **Collaborators:** 
 
 **Dates:** 
 
-**Language:** Python
+**Languages:** Python
 
 **Tools:** 
 
@@ -64,7 +64,7 @@ Data Science Project Portfolio
 
 **Dates:** 
 
-**Language:** Python
+**Languages:** Python
 
 **Tools:** AWS, PostgreSQL, Docker, AWS Lambda
 
@@ -72,6 +72,19 @@ Data Science Project Portfolio
 Data engineering
 
 ## Project 8: AWS flexible power application AWS architecture design
+**Project type:** Professional
+
+**Institute:** Maiple
+
+**Collaborators:** 
+
+**Dates:** 
+
+**Language:** -
+
+**Tools:** AWS
+
+## Project 9: AWS CI/CD Pipeline
 **Project type:** Professional
 
 **Institute:** Maiple
