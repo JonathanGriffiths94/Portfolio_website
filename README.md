@@ -44,7 +44,10 @@ Data science portfolio by Jonathan Griffiths
   **Tools:** AWS, OpenCV, Pytorch, DarkNet, YOLO, GCP OCR, AWS Rekognition
     
   ### Description
-
+  - Masters end of year group project to create a python library to create an application for an AI receipt digitalisation application. This task used a combination of OCR, Computer Vision and NLP in order to identify and extract the key information on a variety of receipts from restaurants, shops, supermarkets etc. 
+  - The goal of the project was to identify the establishment address, date and the total amount spent. 
+  - A semi-automated data processing pipeline was contructed using AWS to build and annotate a dataset X of receipts collected by team members and the project supervisor. 
+  - The models used for training include YOLOv4 and a custom implementation of the Convolutional Universal Text Information Extractor (CUTIE) model in Pytorch
 
 ## Project 3 - Hospital electricity and heat consumption forecasting 
 
@@ -62,7 +65,10 @@ Data science portfolio by Jonathan Griffiths
   **Tools:** AWS, AWS EC2, AWS Sagemaker, AWS Lambda, Docker, MLOPS
     
   ### Description
-
+    - Demand-side energy forecasting of UK hospital electricity consumption to explore possibility of using AI time series forecasting models for campus buildings to participate in flexible energy contracts offered by DNOs (Distribution Network Operators) to reduce pressure on the electricity network during peak operating hours.
+  - Project in collaboration with Cardiff University’s Centre for Integrated Renewable Energy Generation (CIREGS) team as part of the FlexisApp initiative.
+  - This project follows the use of machine learning and deep learning tools to forecast electricity and heat demand over an 11 day period. The experiments were carried out in AWS using EC2 instances as well as Amazon Sagemaker. The Sci-kit learn and GluonTS Python libraries were used to train the models. 
+  - The best model was found to be the random forest regressor model from sci-kit learn.
 
 ## Project 4 - School electricity consumption forecasting 
 
@@ -81,7 +87,11 @@ Data science portfolio by Jonathan Griffiths
   **Tools:** AWS 
     
   ### Description
-
+  - Energy forecasting of UK school using AI modelling. Feasibility study, part of FLEXISApp project to find baseline forecasting accuracy for site to be used as a potential use case for participation in flexible power contracts. 
+  - The original dataset contained 3 years of data ranging from June 2016 to February 2021.  A time series analysis was performed on the dataset and the data was then trained with models using traditional, ML and DL forecasting techniques. 
+  - Covariate data including weather forecast data, seasonal features as well as school closure information was added to the dataset to improve model performance. 
+  - All models were trained using default hyper parameters with no hyper parameter tuning. 
+  - The model performance was assessed using the RMSE error metric.
 
 ## Project 5 - Electricity consumption forecasting in R 
 
