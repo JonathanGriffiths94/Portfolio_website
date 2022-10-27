@@ -27,7 +27,7 @@ Data science portfolio by Jonathan Griffiths
   - Acceptable results for 90% of the stations with a correlation score greater than 0.3. The remaining 10% of the stations were not able to be accurately forecasted, data for these stations was generally found to be of poor quality.
   
 
-## [Project 2 - Optical Character Recognition (OCR) for receipt digitisation] ()
+## [Project 2 - Optical Character Recognition (OCR) for receipt digitisation] (https://github.com/assansanogo/Opteeq)
 
   ### Overview
   
