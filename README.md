@@ -113,7 +113,14 @@ Data science portfolio by Jonathan Griffiths
   **Tools:** AWS, SQL, AWS Lambda
     
   ### Description
-
+  
+  - Development of flexible power application for participation in flexible energy contracts.
+  - AWS architecture design and implementation
+  - Retrieval of 3rd party API weather forecast data 
+  - Python library with ETL, AI model training, serving and monitoring functionalities
+  - Python API for PostgreSQL based time series database TimescaleDB
+  - Python GraphQL API for DynamoDB using AWS AppSync
+  - Automated CI/CD pipeline using AWS CodePipeline, CodeBuild, CodeDeploy and AWS Cloud Development Kit (CDK)
 
 
 
