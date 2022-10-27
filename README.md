@@ -97,7 +97,7 @@ Data science portfolio by Jonathan Griffiths
   - All models were trained using default hyper parameters with no hyper parameter tuning. 
   - The best model was found to be the Random Forest Regression model. 
 
-[## Project 5 - Electricity consumption forecasting in R] (https://github.com/JonathanGriffiths94/Time_series_forecasting_R/blob/main/Jonathan_Griffiths_Time_Series_Exam.pdf)
+## [Project 5 - Electricity consumption forecasting in R] (https://github.com/JonathanGriffiths94/Time_series_forecasting_R/blob/main/Jonathan_Griffiths_Time_Series_Exam.pdf)
 
 ### Overview
 
