@@ -27,7 +27,7 @@ Data science portfolio by Jonathan Griffiths
   - Acceptable results for 90% of the stations with a correlation score greater than 0.3. The remaining 10% of the stations were not able to be accurately forecasted, data for these stations was generally found to be of poor quality.
   
 
-## Project 2 - Optical Character Recognition (OCR) for receipt digitisation 
+[## Project 2 - Optical Character Recognition (OCR) for receipt digitisation] ()
 
   ### Overview
   
@@ -97,7 +97,7 @@ Data science portfolio by Jonathan Griffiths
   - All models were trained using default hyper parameters with no hyper parameter tuning. 
   - The best model was found to be the Random Forest Regression model. 
 
-## [Project 5 - Electricity consumption forecasting in R] (https://github.com/JonathanGriffiths94/Time_series_forecasting_R/blob/main/Jonathan_Griffiths_Time_Series_Exam.pdf)
+[## Project 5 - Electricity consumption forecasting in R] (https://github.com/JonathanGriffiths94/Time_series_forecasting_R/blob/main/Jonathan_Griffiths_Time_Series_Exam.pdf)
 
 ### Overview
 
