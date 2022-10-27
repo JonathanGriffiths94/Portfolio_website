@@ -85,18 +85,18 @@ Data science portfolio by Jonathan Griffiths
   
   **Institute:** Data ScienceTech Institute
   
-  **Collaborators:** FLEXISApp, CIREGS
+  **Collaborators:** -
   
   **Dates:** 
   
-  **Languages:** Python
+  **Languages:** R
   
-  **Tools:** AWS, PostgreSQL, Docker, AWS Lambda
+  **Tools:** -
     
 ### Description
 
 
-## Project 6 - TimescaleDB Python API 
+## Project 6 - Flexible power application API development 
 
   ### Overview
 
@@ -106,7 +106,7 @@ Data science portfolio by Jonathan Griffiths
   
   **Collaborators:** FLEXISApp, CIREGS
   
-  **Dates:** 
+  **Dates:** - present 
   
   **Languages:** Python
   
@@ -115,60 +115,5 @@ Data science portfolio by Jonathan Griffiths
   ### Description
 
 
-## Project 7 - AWS AppSync GraphQL Python API 
-
-### Overview
-
-  **Project type:** Professional, data engineering
-  
-  **Institute:** Maiple
-  
-  **Collaborators:** FLEXISApp, CIREGS
-  
-  **Dates:** 
-  
-  **Languages:** Python
-  
-  **Tools:** AWS, DynamoDB, NoSQL
-    
-### Description
-
-
-## Project 8 - AWS flexible power application AWS architecture design
-
-  ### Overview
-
-  **Project type:** Professional, data engineering
-  
-  **Institute:** Maiple
-  
-  **Collaborators:** FLEXISApp, CIREGS
-  
-  **Dates:** 
-  
-  **Languages:** -
-  
-  **Tools:** AWS
-    
-  ### Description
-
-
-## Project 9 - AWS CI/CD Pipeline
-
-  ### Overview
-
-  **Project type:** Professional, data engineering
-  
-  **Institute:** Maiple
-  
-  **Collaborators:** FLEXISApp, CIREGS
-  
-  **Dates:** 
-  
-  **Languages:** Typescript
-  
-  **Tools:** AWS
-  
-  ### Description
 
 
