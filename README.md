@@ -134,7 +134,7 @@ Data science portfolio by Jonathan Griffiths
     
   ### Description
   
-  - Development of flexible power application for participation in flexible energy contracts.
+  - Development of flexible power application in AWS for participation in flexible energy contracts.
   - AWS architecture design and implementation
   - Python API to retrieve 3rd party API weather forecast data 
   - Python library with ETL, AI model training, serving and monitoring functionalities
