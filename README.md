@@ -35,7 +35,7 @@ Data science portfolio by Jonathan Griffiths
   
   **Institute:** Data ScienceTech Institute
   
-  **Collaborators:** 
+  **Collaborators:** Team: S. Adimabua Anonyai, P. Bayona, L. Bonnand Germain, W. Hu, S. Koffi Fanoukoe & J. Yates. Project supervisor: A. Sanogo.
   
   **Dates:** May - November 2021
   
@@ -46,10 +46,11 @@ Data science portfolio by Jonathan Griffiths
   ### Description
   - Masters end of year group project to create a python library for using AI for receipt digitalisation. This task used a combination of OCR, Computer Vision and NLP in order to identify and extract the key information on a variety of receipts from restaurants, shops, supermarkets etc. 
   - The goal of the project was to identify the establishment address, date and the total amount spent on the receipt.
-  - A data processing pipeline was contructed using AWS to build and annotate a dataset X of receipts collected by team members and the project supervisor. 
-  - The receipts were digitalised using an OCR tool provided by Google Cloud via an api, recipts were then manually annotated by team members with an image annotation tool. 
-  - The models used for training include YOLOv4 and a custom implementation of the Convolutional Universal Text Information Extractor (CUTIE) model in Pytorch
-  - The results 
+  - A data processing pipeline was contructed using AWS to build and annotate a dataset 1300 of receipts collected by team members and the project supervisor. 
+  - The receipts were digitalised using an OCR tool provided by the Google Cloud Vision API, recipts were then manually annotated by team members with an image annotation tool. 
+  - The models used for training include the object detection model YOLOv4 and a custom implementation of the Convolutional Universal Text Information Extractor (CUTIE) model in Pytorch.
+  - Acceptable results were achieved using YOLO with mean average precision of 67.82%. 
+  - The YOLO model was then deployed in AWS as a lambda function using a docker image stored in AWS ECR and API Gateway.
 
 ## Project 3 - Hospital electricity and heat consumption forecasting 
 
@@ -137,10 +138,9 @@ Data science portfolio by Jonathan Griffiths
   - Development of flexible power application in AWS for participation in flexible energy contracts.
   - AWS architecture design and implementation
   - Python API to retrieve 3rd party API weather forecast data 
-  - Python ETL ad monitoring APIs
-  - Time series AI model pipelines for training and prediction using Docker
-  - Python API for PostgreSQL based time series database TimescaleDB using Docker
-  - Python high level library to interface DynamoDB with GrapQL using AWS AppSync API
+  - Python library with ETL, AI model training, serving and monitoring functionalities
+  - Python API for PostgreSQL based time series database TimescaleDB
+  - Python GraphQL API for DynamoDB using AWS AppSync
   - Automated CI/CD pipeline using AWS CodePipeline, CodeBuild, CodeDeploy and AWS Cloud Development Kit (CDK)(In progress)
 
 
