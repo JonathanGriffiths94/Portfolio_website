@@ -137,9 +137,10 @@ Data science portfolio by Jonathan Griffiths
   - Development of flexible power application in AWS for participation in flexible energy contracts.
   - AWS architecture design and implementation
   - Python API to retrieve 3rd party API weather forecast data 
-  - Python library with ETL, AI model training, serving and monitoring functionalities
-  - Python API for PostgreSQL based time series database TimescaleDB
-  - Python GraphQL API for DynamoDB using AWS AppSync
+  - Python ETL ad monitoring APIs
+  - Time series AI model pipelines for training and prediction using Docker
+  - Python API for PostgreSQL based time series database TimescaleDB using Docker
+  - Python high level library to interface DynamoDB with GrapQL using AWS AppSync API
   - Automated CI/CD pipeline using AWS CodePipeline, CodeBuild, CodeDeploy and AWS Cloud Development Kit (CDK)(In progress)
 
 
