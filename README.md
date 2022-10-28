@@ -49,7 +49,7 @@ Data science portfolio by Jonathan Griffiths
   - A data processing pipeline was contructed using AWS to build and annotate a dataset 1300 of receipts collected by team members and the project supervisor. 
   - The receipts were digitalised using an OCR tool provided by the Google Cloud Vision API, recipts were then manually annotated by team members with an image annotation tool. 
   - The models used for training include the object detection model YOLOv4 and a custom implementation of the Convolutional Universal Text Information Extractor (CUTIE) model in Pytorch.
-  - Acceptable results were achieved using YOLO with mean average precision of 67.82%. 
+  - Acceptable results were achieved using YOLO with mean average precision of 67.82% and an F1 score of 0.84 across all classes.
   - The YOLO model was then deployed in AWS as a lambda function using a docker image stored in AWS ECR and API Gateway.
 
 ## Project 3 - Hospital electricity and heat consumption forecasting 
