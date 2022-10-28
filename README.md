@@ -140,7 +140,7 @@ Data science portfolio by Jonathan Griffiths
   - Python library with ETL, AI model training, serving and monitoring functionalities
   - Python API for PostgreSQL based time series database TimescaleDB
   - Python GraphQL API for DynamoDB using AWS AppSync
-  - Automated CI/CD pipeline using AWS CodePipeline, CodeBuild, CodeDeploy and AWS Cloud Development Kit (CDK)
+  - Automated CI/CD pipeline using AWS CodePipeline, CodeBuild, CodeDeploy and AWS Cloud Development Kit (CDK)(In progress)
 
 
 
