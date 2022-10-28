@@ -10,7 +10,7 @@ Data science portfolio by Jonathan Griffiths
   
   **Institute:** Maiple
   
-  **Collaborators:** UK Utility company
+  **Collaborators:** UK utility company
   
   **Dates:** Jan - April 2020
   
