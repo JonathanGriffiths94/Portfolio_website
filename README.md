@@ -52,7 +52,7 @@ Data science portfolio by Jonathan Griffiths
   - Acceptable results were achieved using YOLO with mean average precision of 67.82% and an F1 score of 0.84 across all classes.
   - The YOLO model was then deployed in AWS as a lambda function using a docker image stored in AWS ECR and API Gateway.
 
-## Project 3 - Hospital electricity and heat consumption forecasting 
+## [Project 3 - Hospital electricity and heat consumption forecasting] (https://github.com/JonathanGriffiths94/Hospital_energy_forecasting.git)
 
   ### Overview
   **Project type:** Professional, data science
@@ -65,7 +65,7 @@ Data science portfolio by Jonathan Griffiths
   
   **Languages:** Python
   
-  **Tools:** AWS, AWS EC2, AWS Sagemaker, AWS Lambda, Docker, MLOPS
+  **Tools:** AWS, AWS EC2, AWS Sagemaker, AWS Lambda, MLOPS
     
   ### Description
     - Demand-side energy forecasting of UK hospital electricity consumption to explore possibility of using AI time series forecasting models for campus buildings to participate in flexible energy contracts offered by DNOs (Distribution Network Operators) to reduce pressure on the electricity network during peak operating hours.
@@ -75,7 +75,7 @@ Data science portfolio by Jonathan Griffiths
   - The best model was found to be the Random Forest regression model from sci-kit learn which was tuned using GridSearch.
 
 
-## Project 4 - School electricity consumption forecasting 
+## [Project 4 - School electricity consumption forecasting] (https://github.com/JonathanGriffiths94/School_energy_forecasting.git) 
 
   ### Overview
 
