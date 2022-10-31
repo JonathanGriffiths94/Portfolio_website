@@ -68,7 +68,7 @@ Data science portfolio by Jonathan Griffiths
   **Tools:** AWS, AWS EC2, AWS Sagemaker, AWS Lambda, MLOPS
     
   ### Description
-    - Demand-side energy forecasting of UK hospital electricity consumption to explore possibility of using AI time series forecasting models for campus buildings to participate in flexible energy contracts offered by DNOs (Distribution Network Operators) to reduce pressure on the electricity network during peak operating hours.
+  - Demand-side energy forecasting of UK hospital electricity consumption to explore possibility of using AI time series forecasting models for campus buildings to participate in flexible energy contracts offered by DNOs (Distribution Network Operators) to reduce pressure on the electricity network during peak operating hours.
   - Project in collaboration with Cardiff University’s Centre for Integrated Renewable Energy Generation (CIREGS) team as part of the FlexisApp initiative.
   - This project follows the use of machine learning and deep learning tools to forecast electricity and heat demand over an 11 day period. The experiments were carried out in AWS using EC2 instances as well as Amazon Sagemaker. The Sci-kit learn and GluonTS Python libraries were used to train the models. 
   - The models tested included SARIMA, ETS, Holt-Winters, Random Forest and XGBoost regressors, DeepAR and Multi-Layer Perceptron
