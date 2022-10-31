@@ -22,7 +22,7 @@ Data science portfolio by Jonathan Griffiths
   - Feasbility study to assess ability to use AI models to predict energy consumption of Wastewater pumping stations based on local rainfall forecasts. 
   - 129 stations in various locations across the UK with 2 years of data from April 2018 to March 2020 was created.
   - Stations were placed in 3 groups based on rainfall correlation using the Pearson correlation score. 
-  - A DeepAR model implementation from the GluonTS deep learning time series forecasting was used to create a model for each group of stations.
+  - A DeepAR model implementation from the GluonTS deep learning time series forecasting library was used to create a model for each group of stations.
   - The models were trained using Amazon Sagemaker in AWS and hyperparamter tuning was performed to improve model performance. 
   - Acceptable results for 90% of the stations with a correlation score greater than 0.3. The remaining 10% of the stations were not able to be accurately forecasted, data for these stations was generally found to be of poor quality.
   
