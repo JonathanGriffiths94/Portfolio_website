@@ -142,6 +142,8 @@ Data science portfolio by Jonathan Griffiths
   **Languages:** Python
   
   **Tools:** AWS, SQL, AWS Lambda
+  
+  ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/architecture.png "QEH")
     
   ### Description
   
