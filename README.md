@@ -43,7 +43,7 @@ Data science portfolio by Jonathan Griffiths
   
   **Tools:** AWS, OpenCV, Pytorch, DarkNet, YOLO, GCP OCR, AWS Rekognition, Docker
   
-![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/receipt_ocr.png "Receipt ocr")
+![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/reciept_ocr.png "Receipt ocr")
     
   ### Description
   - Masters end of year group project to create a python library for using AI for receipt digitalisation. This task used a combination of OCR, Computer Vision and NLP in order to identify and extract the key information on a variety of receipts from restaurants, shops, supermarkets etc. 
