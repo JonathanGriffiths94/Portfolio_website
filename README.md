@@ -125,12 +125,11 @@ Data science portfolio by Jonathan Griffiths
   ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/dsti_tsf.png "School")
     
 ### Description
-- Masters Energy forecasting project as part of exam for Time Series Forecasting module at Data ScienceTech Institute using the R scripting language.
-- The goal of the project was to predict energy consumption for the next 24 hours.
-- Energy data was used with X data from X - X sampled at X.
+- Masters Time Series Forecasting exam at Data ScienceTech Institute using the R scripting language to analyse and predict the next 24 hours of energy data.
+- The dataset contained X data from X - X sampled at 15 minnute intervals.
 - Temperature data was used as a covariate to improve accuracy of predictions.
 - Time series models from R Forecast package were used including...
-- Using the root mean squared error criterion (RMSE) the best model was found to be...
+- Using the root mean squared error criterion (RMSE) the best model was found to be a linear regression model with temperature as a covariate input.
 
 ## Project 6 - Flexible power application API development 
 
@@ -155,10 +154,10 @@ Data science portfolio by Jonathan Griffiths
   - Development of flexible power application in AWS for participation in flexible energy contracts.
   - AWS architecture design and implementation
   - Python API to retrieve 3rd party API weather forecast data 
-  - Python library with ETL, AI model training, serving and monitoring functionalities
+  - Python library with ETL, AI model training pipelines, serving and monitoring functionalities
   - Python API for PostgreSQL based time series database TimescaleDB
-  - Python GraphQL API for DynamoDB using AWS AppSync
-  - Automated CI/CD pipeline using AWS CodePipeline, CodeBuild, CodeDeploy and AWS Cloud Development Kit (CDK)(In progress)
+  - Python API for DynamoDB using AWS AppSync GraphQL API
+  - Automated CI/CD pipeline using AWS CodePipeline, CodeBuild, CodeDeploy and AWS Cloud Development Kit (CDK) (In progress)
 
 
 
