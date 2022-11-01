@@ -17,6 +17,8 @@ Data science portfolio by Jonathan Griffiths
   **Languages:** Python
   
   **Tools:** AWS, Sagemaker, Sci-kit learn, GluonTS, MxNet
+  
+   ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/dwr_cyrmu.png "QEH")
 
   ### Description
   - Feasbility study to assess ability to use AI models to predict energy consumption of Wastewater pumping stations based on local rainfall forecasts. 
