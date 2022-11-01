@@ -125,7 +125,12 @@ Data science portfolio by Jonathan Griffiths
   ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/dsti_tsf.png "School")
     
 ### Description
-
+- Masters Energy forecasting project as part of exam for Time Series Forecasting module at Data ScienceTech Institute using the R scripting language.
+- The goal of the project was to predict energy consumption for the next 24 hours.
+- Energy data was used with X data from X - X sampled at X.
+- Temperature data was used as a covariate to improve accuracy of predictions.
+- Time series models from R Forecast package were used including...
+- Using the root mean squared error criterion (RMSE) the best model was found to be...
 
 ## Project 6 - Flexible power application API development 
 
