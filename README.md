@@ -68,6 +68,8 @@ Data science portfolio by Jonathan Griffiths
   **Languages:** Python
   
   **Tools:** AWS, AWS EC2, AWS Sagemaker, AWS Lambda, MLOPS
+  
+  ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/elec_demand_test.png "QEH")
     
   ### Description
   - Demand-side energy forecasting of UK hospital electricity consumption to explore possibility of using AI time series forecasting models for campus buildings to participate in flexible energy contracts offered by DNOs (Distribution Network Operators) to reduce pressure on the electricity network during peak operating hours.
@@ -92,6 +94,8 @@ Data science portfolio by Jonathan Griffiths
   **Languages:** Python
   
   **Tools:** AWS 
+  
+  ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/rforest_cwm_brombil_test.png "School")
     
   ### Description
   - Energy forecasting of UK school using AI modelling. Feasibility study, part of FLEXISApp project to find baseline forecasting accuracy for site to be used as a potential use case for participation in flexible power contracts. 
