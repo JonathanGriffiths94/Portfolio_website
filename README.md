@@ -147,7 +147,7 @@ Data science portfolio by Jonathan Griffiths
   
   **Tools:** AWS, SQL, AWS Lambda
   
-  ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/architecture.png "QEH")
+  ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/fa003-aws-architecture.png "QEH")
     
   ### Description
   
