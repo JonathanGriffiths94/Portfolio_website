@@ -121,6 +121,8 @@ Data science portfolio by Jonathan Griffiths
   **Languages:** R
   
   **Tools:** -
+  
+  ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/dsti_tsf.png "School")
     
 ### Description
 
