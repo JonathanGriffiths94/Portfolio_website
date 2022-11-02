@@ -108,32 +108,6 @@ Data science portfolio by Jonathan Griffiths
   - Acceptable results were achieved using YOLO with mean average precision of 67.82% and an F1 score of 0.84 across all classes.
   - The YOLO model was then deployed in AWS as a lambda function using a docker image stored in AWS ECR and API Gateway.
 
-
-## [Project 5 - Electricity consumption forecasting in R] (https://github.com/JonathanGriffiths94/Time_series_forecasting_R/blob/main/Jonathan_Griffiths_Time_Series_Exam.pdf)
-
-### Overview
-
-  **Project type:** Study, data science
-  
-  **Institute:** Data ScienceTech Institute
-  
-  **Collaborators:** -
-  
-  **Dates:** October 2021
-  
-  **Languages:** R
-  
-  **Tools:** -
-  
-  ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/dsti_tsf.png "School")
-    
-### Description
-- Masters Time Series Forecasting exam at Data ScienceTech Institute using the R scripting language to analyse and predict the next 24 hours of energy data.
-- The dataset contained X data from X - X sampled at 15 minnute intervals.
-- Temperature data was used as a covariate to improve accuracy of predictions.
-- Time series models from R Forecast package were used including...
-- Using the root mean squared error criterion (RMSE) the best model was found to be a linear regression model with temperature as a covariate input.
-
 ## Project 6 - Waste-water sewage pumping station electricity consumption forecasting
 
   ### Overview
