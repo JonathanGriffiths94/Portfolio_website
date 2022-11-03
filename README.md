@@ -17,7 +17,7 @@ Data science portfolio by Jonathan Griffiths
   
   **Tools:** AWS, PostgreSQL, GraphQL, AWS Lambda, TimescaleDB, DynamoDB, AWS ECR, AWS Fargate, AWS Batch, AWS Sagemaker, AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy, AWS Cloud Formation, AWS Cloud Development Kit (CDK), Typescript, Docker 
   
-  ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/fa003-aws-architecture1.drawio.png "QEH")
+  ![alt text](https://github.com/JonathanGriffiths94/Portfolio_website/blob/main/images/fa003-aws-architecture.drawio1.png "QEH")
     
   ### Description
   
