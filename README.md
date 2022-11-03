@@ -1,5 +1,4 @@
-# Portfolio_website
-Data science portfolio by Jonathan Griffiths 
+# Data science portfolio by Jonathan Griffiths 
 
 ## Project 1 - Flexible power application API development 
 
