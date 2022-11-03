@@ -55,7 +55,7 @@ Data science portfolio by Jonathan Griffiths
   - The best model was found to be the Random Forest regression model from sci-kit learn which was tuned using GridSearch.
 
 
-## [Project 3 - School electricity consumption forecasting] (https://github.com/JonathanGriffiths94/School_energy_forecasting.git) 
+## Project 3 - School electricity consumption forecasting
 
   ### Overview
 
